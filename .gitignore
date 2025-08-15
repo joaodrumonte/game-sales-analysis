@@ -6,6 +6,6 @@ __pycache__/
 # OS
 .DS_Store
 
-# Outputs e dados grandes
+# Dados e resultados
+data/
 outputs/
-data/vgsales.csv
