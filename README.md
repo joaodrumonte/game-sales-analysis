@@ -99,4 +99,4 @@ Git/GitHub (versionamento e publicação)
 
 Desenvolvido por João Carlos Alexandre
 🔗 GitHub: joaodrumonte
-🔗 LinkedIn: João Carlos Alexandre
+🔗 LinkedIn: https://www.linkedin.com/in/joão-carlos-alexandre-46306722b
